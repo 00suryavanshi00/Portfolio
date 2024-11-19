@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'athelas'; /* Give your font a custom name */
+  src: url('/src/fonts/Athelas-Regular.ttf') format('truetype'); /* Adjust the path as needed */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'jaldi'; /* Give your font a custom name */
+  src: url('/src/fonts/Jaldi-Regular.ttf') format('truetype'); /* Adjust the path as needed */
+  font-weight: normal;
+  font-style: normal;
+}
